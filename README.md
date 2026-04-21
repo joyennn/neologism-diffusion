@@ -29,5 +29,4 @@ GA_SNS_Simulation/
     └── utils.py
 ```
 
-## Contact
-For any inquiries, please contact 0525yhs@gmail.com.
+
